@@ -1,6 +1,4 @@
 
-
-```markdown
 # 📄🤖 Local RAG Chatbot – Insurance FAQ Assistant
 
 A fully local Retrieval-Augmented Generation (RAG) chatbot that answers questions from internal PDF documents (like insurance FAQs) using **Ollama**, **Mistral**, **FAISS**, and **Streamlit**. No API keys or internet required — runs 100% locally.
